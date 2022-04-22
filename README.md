@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-### こんにちは  私は漫画を読むのが好きです。  よろしくお願いします。
+### こんにちは  
+### 私は漫画を読むのが好きです。  
+### よろしくお願いします。
 
 You can use the [editor on GitHub](https://github.com/mototanitiki/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
