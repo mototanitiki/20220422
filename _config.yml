@@ -3,7 +3,7 @@ title: 専門学生のホームページ
 description: 自己紹介ページを作りました
 logo: /logo.png
 plugins:
-  -jekyll-sitemap
+  - jekyll-sitemap
 
 
 
