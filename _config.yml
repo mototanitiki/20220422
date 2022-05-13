@@ -4,6 +4,8 @@ description: 自己紹介ページを作りました
 logo: /logo.png
 plugins:
   - jekyll-sitemap
+google_analytics:　UA-228703407-1
+
 
 
 
